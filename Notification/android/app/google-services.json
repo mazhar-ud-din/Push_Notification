@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1013090142215",
+    "project_id": "domi-627e5",
+    "storage_bucket": "domi-627e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013090142215:android:8d5f9c892ce27284d902a2",
+        "android_client_info": {
+          "package_name": "com.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013090142215-grgr4k8cnmhvt7e6p8393obeg2gvrd5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRWMa-ERaX53ISEpVewAWmSV3mwyD5OUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013090142215-grgr4k8cnmhvt7e6p8393obeg2gvrd5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
